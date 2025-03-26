@@ -1,0 +1,5 @@
+numpy==2.2.0
+pandas==2.2.3
+requests==2.32.3
+scripy==0.9.3
+metplotlib==3.9.0
